@@ -52,7 +52,7 @@ function NavBarHome() {
 
                 break;
             default:
-                alert(`Tenho que preencher os dados ainda ${sError}`)
+                alert(`Buscando local... ${sError}`)
                 break;
         }
 
