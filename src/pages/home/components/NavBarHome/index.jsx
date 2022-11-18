@@ -19,7 +19,7 @@ function NavBarHome() {
 
         switch (sInput.toLocaleLowerCase()) {
             case "centro de vitoria":
-                alert("Tenho que preencher os dados ainda" + oTeste.CentroVitoria.BimboBar)
+                alert("Bucando local..." + oTeste.CentroVitoria.BimboBar)
                 et(oTeste.CentroVitoria.BimboBar)
                 local(oTeste.CentroVitoria.BimboBar.local)
                 lugar(oTeste.CentroVitoria.BimboBar.Nome)
